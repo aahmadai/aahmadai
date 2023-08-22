@@ -4,8 +4,6 @@
 
 <a href="https://shorturl.at/gvLT0" class="button">Donate</a>
 
-<a href="https://shorturl.at/gyGL7" class="button">GoFundMe</a>
-
 <!--
 **aahmadai/aahmadai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
